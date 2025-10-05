@@ -1,0 +1,52 @@
+# Django Framework
+Django
+
+# Django REST Framework
+djangorestframework
+
+# CORS Headers para manejar peticiones cross-origin
+django-cors-headers
+
+# Procesamiento de imágenes
+Pillow
+
+# Eliminación de fondos
+rembg
+
+# Procesamiento de video
+moviepy
+
+# Computación numérica
+numpy
+
+# ONNX Runtime para modelos de ML
+onnxruntime
+
+# Variables de entorno
+python-dotenv
+
+# Cliente HTTP asíncrono
+httpx
+
+# WebSockets
+websockets
+
+# Autenticación de Google (si se usa)
+google-auth
+
+# Google Generative AI (si se usa)
+google-genai
+
+# Utilidades adicionales
+tenacity
+cachetools
+certifi
+charset-normalizer
+h11
+pyasn1
+pyasn1-modules
+rsa
+sniffio
+urllib3
+anyio
+requests
